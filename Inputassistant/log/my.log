@@ -1,0 +1,150 @@
+[2018-05-18 14:03:35,858] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 14:03:35,899] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 14:04:03,341] [DEBUG] [src/server/Task.cpp:execute:120] 查询:你好
+[2018-05-18 14:04:10,136] [DEBUG] [src/server/Task.cpp:execute:120] 查询:hello
+[2018-05-18 14:04:14,864] [DEBUG] [src/server/Task.cpp:execute:120] 查询:湖
+[2018-05-18 14:14:04,167] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 14:14:04,172] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 14:14:28,059] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 14:14:31,812] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 14:14:34,069] [DEBUG] [src/server/Task.cpp:execute:120] 查询:学
+[2018-05-18 14:42:08,394] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 14:42:08,400] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 14:42:18,971] [DEBUG] [src/server/Task.cpp:execute:120] 查询:he
+[2018-05-18 14:42:28,274] [DEBUG] [src/server/Task.cpp:execute:120] 查询:nihao
+[2018-05-18 14:42:34,266] [DEBUG] [src/server/Task.cpp:execute:120] 查询:拉拉 
+[2018-05-18 14:42:40,698] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 14:42:51,893] [DEBUG] [src/server/Task.cpp:execute:120] 查询:湖
+[2018-05-18 14:43:09,063] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 14:43:09,068] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 14:45:37,406] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 14:45:37,412] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 15:04:49,922] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 15:04:49,930] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 15:34:33,997] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 15:34:34,002] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 15:46:32,410] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 15:46:32,415] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 15:54:58,517] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 15:54:58,519] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:00:27,029] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:00:27,033] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:01:03,634] [DEBUG] [src/server/Task.cpp:execute:120] 查询:haha
+[2018-05-18 16:02:15,100] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:02:19,921] [DEBUG] [src/server/Task.cpp:execute:120] 查询:玩笑
+[2018-05-18 16:02:22,405] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:02:24,946] [DEBUG] [src/server/Task.cpp:execute:120] 查询:报
+[2018-05-18 16:02:27,465] [DEBUG] [src/server/Task.cpp:execute:120] 查询:湖
+[2018-05-18 16:02:30,788] [DEBUG] [src/server/Task.cpp:execute:120] 查询:北方
+[2018-05-18 16:02:34,108] [DEBUG] [src/server/Task.cpp:execute:120] 查询:字体
+[2018-05-18 16:02:36,657] [DEBUG] [src/server/Task.cpp:execute:120] 查询:字
+[2018-05-18 16:02:38,911] [DEBUG] [src/server/Task.cpp:execute:120] 查询:报
+[2018-05-18 16:02:45,136] [DEBUG] [src/server/Task.cpp:execute:120] 查询:学
+[2018-05-18 16:02:48,485] [DEBUG] [src/server/Task.cpp:execute:120] 查询:你们
+[2018-05-18 16:02:50,263] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ok
+[2018-05-18 16:02:53,184] [DEBUG] [src/server/Task.cpp:execute:120] 查询:hello
+[2018-05-18 16:03:38,367] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:03:38,371] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:09:16,576] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:09:16,579] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:09:58,766] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:09:58,769] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:11:11,647] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:11:11,651] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:16:53,021] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:16:53,025] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:18:58,161] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:18:58,165] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:19:15,425] [DEBUG] [src/server/Task.cpp:execute:120] 查询:你
+[2018-05-18 16:19:39,770] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:19:39,775] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:20:03,656] [DEBUG] [src/server/Task.cpp:execute:120] 查询:你
+[2018-05-18 16:24:18,804] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:24:18,809] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:24:37,510] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:26:17,036] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:26:17,040] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:26:28,112] [DEBUG] [src/server/Task.cpp:execute:120] 查询:你
+[2018-05-18 16:26:31,378] [DEBUG] [src/server/Task.cpp:execute:120] 查询:你们
+[2018-05-18 16:26:33,694] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:26:37,110] [DEBUG] [src/server/Task.cpp:execute:120] 查询:字
+[2018-05-18 16:26:39,546] [DEBUG] [src/server/Task.cpp:execute:120] 查询:报
+[2018-05-18 16:26:45,126] [DEBUG] [src/server/Task.cpp:execute:120] 查询:学
+[2018-05-18 16:26:48,007] [DEBUG] [src/server/Task.cpp:execute:120] 查询:湖
+[2018-05-18 16:26:53,006] [DEBUG] [src/server/Task.cpp:execute:120] 查询:hello
+[2018-05-18 16:29:32,265] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:29:32,268] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:29:54,113] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:29:59,756] [DEBUG] [src/server/Task.cpp:execute:120] 查询:halo
+[2018-05-18 16:30:05,157] [DEBUG] [src/server/Task.cpp:execute:120] 查询:da
+[2018-05-18 16:30:09,195] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:30:15,673] [DEBUG] [src/server/Task.cpp:execute:120] 查询:学
+[2018-05-18 16:36:49,013] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:36:49,016] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:37:01,542] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:39:37,861] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:39:37,865] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:39:45,236] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:40:38,927] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:40:38,931] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:40:46,408] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:40:51,777] [DEBUG] [src/server/Task.cpp:execute:120] 查询:wo
+[2018-05-18 16:40:56,468] [DEBUG] [src/server/Task.cpp:execute:120] 查询:直接
+[2018-05-18 16:40:59,478] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:41:01,001] [DEBUG] [src/server/Task.cpp:execute:120] 查询:字
+[2018-05-18 16:41:03,413] [DEBUG] [src/server/Task.cpp:execute:120] 查询:报
+[2018-05-18 16:42:40,958] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:42:40,966] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:42:51,245] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:45:35,986] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:45:35,989] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:45:45,317] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:47:20,214] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:47:20,218] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:47:30,364] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:47:36,391] [DEBUG] [src/server/Task.cpp:execute:120] 查询:好
+[2018-05-18 16:47:39,164] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:47:41,862] [DEBUG] [src/server/Task.cpp:execute:120] 查询:报
+[2018-05-18 16:47:44,432] [DEBUG] [src/server/Task.cpp:execute:120] 查询:学
+[2018-05-18 16:54:16,901] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:54:16,905] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:54:27,038] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:54:49,258] [DEBUG] [src/server/Task.cpp:execute:120] 查询:nimen 
+[2018-05-18 16:55:01,690] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:55:10,906] [DEBUG] [src/server/Task.cpp:execute:120] 查询:字
+[2018-05-18 16:55:19,801] [DEBUG] [src/server/Task.cpp:execute:120] 查询:报纸
+[2018-05-18 16:55:33,367] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:55:36,379] [DEBUG] [src/server/Task.cpp:execute:120] 查询:受到法律三大法律上的
+[2018-05-18 16:55:43,329] [DEBUG] [src/server/Task.cpp:execute:120] 查询:sdlksdsdsd
+[2018-05-18 16:55:57,005] [DEBUG] [src/server/Task.cpp:execute:120] 查询:湿嗒嗒
+[2018-05-18 16:56:00,226] [DEBUG] [src/server/Task.cpp:execute:120] 查询:六十六
+[2018-05-18 16:57:13,790] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-18 16:57:13,795] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-18 16:57:32,344] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ni
+[2018-05-18 16:57:38,394] [DEBUG] [src/server/Task.cpp:execute:120] 查询:ok
+[2018-05-18 16:57:44,251] [DEBUG] [src/server/Task.cpp:execute:120] 查询:大
+[2018-05-18 16:57:47,098] [DEBUG] [src/server/Task.cpp:execute:120] 查询:恩
+[2018-05-18 16:57:50,533] [DEBUG] [src/server/Task.cpp:execute:120] 查询:okkkkkkk
+[2018-05-19 11:56:04,056] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-19 11:56:04,090] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-19 11:56:26,441] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:ni
+[2018-05-19 11:56:34,157] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:la
+[2018-05-19 11:56:38,310] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:学
+[2018-05-19 15:24:31,645] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-19 15:24:31,651] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-19 15:24:44,551] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:大
+[2018-05-19 15:24:47,231] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:字
+[2018-05-19 15:24:51,711] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:报 
+[2018-05-19 15:25:08,795] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:学
+[2018-05-19 15:25:11,644] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:hello
+[2018-05-19 17:42:58,494] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-19 17:42:58,500] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-19 17:43:10,573] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:he
+[2018-05-19 17:43:24,192] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:qing
+[2018-05-19 17:43:30,043] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:学
+[2018-05-19 17:43:32,635] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:湖
+[2018-05-20 17:33:37,593] [DEBUG] [src/server/main.cpp:main:19] 启动并使用系统.
+[2018-05-20 17:33:37,642] [DEBUG] [src/server/main.cpp:main:29] load dictionary and index.
+[2018-05-20 17:33:46,514] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:da
+[2018-05-20 17:33:51,519] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:报
+[2018-05-20 17:33:58,001] [DEBUG] [src/server/Task.cpp:execute:118] 搜索:
